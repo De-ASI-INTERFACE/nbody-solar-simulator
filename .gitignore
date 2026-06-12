@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dash
+.dash_cache/
+
+# Environment variables
+.env
+*.env
+
+# Data outputs
+*.csv
+*.parquet
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+# Core simulation
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Dashboard UI
+dash>=2.14.0
+plotly>=5.18.0
+
+# HTTP client (NASA JPL Horizons API)
+requests>=2.31.0
+
+# Utilities
+python-dateutil>=2.8.2
